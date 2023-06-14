@@ -1,3 +1,3 @@
 # bootcamp-dnc
 
-Creativa process about a bootcamp DNC page
+Creativa process about bootcamp DNC page
